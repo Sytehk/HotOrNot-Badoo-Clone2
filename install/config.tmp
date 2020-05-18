@@ -1,0 +1,8 @@
+<?php
+
+$db_host = '%1';
+$db_name = '%2';
+$db_username = '%3';
+$db_password = '%4';
+$site_url = '%5';
+
